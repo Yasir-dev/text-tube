@@ -1,0 +1,40 @@
+.summarizeForm {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.summarizeForm input[type="text"] {
+  width: 400px;
+  padding: 10px;
+  border: 2px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+.summarizeForm button {
+  background-color: #4caf50;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  margin-left: 10px;
+}
+
+.summarizeForm button:hover {
+  background-color: #45a049;
+}
+
+.error {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.error p {
+  font-size: 15px;
+  color: red;
+}
