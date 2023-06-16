@@ -8,6 +8,7 @@ A simple project created during a hackathon
 - Create an API key for open AI at https://platform.openai.com/
 - Create the environment file in the project root `.env.local`
 - Add the API key environment variable `OPEN_AI_API_KEY` in the `.env.local`
+- Run `npm install`
 - Run `npm run dev`
 
   ![Bildschirmfoto 2023-06-16 um 13 58 30](https://github.com/Yasir-dev/text-tube/assets/41165103/c99b15cf-92e1-48a1-afb4-27521fff7858)
